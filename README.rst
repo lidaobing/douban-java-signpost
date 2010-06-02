@@ -7,23 +7,25 @@ jxphone-douban
 关键代码
 ========
 
-将如下两个文件拷贝到你的工程即可: 
-jxphone-douban/src/main/java/com/jxphone/douban/DoubanOAuthConsumer.java
-jxphone-douban/src/main/java/com/jxphone/douban/DoubanOAuthConsumer.java
+将如下两个文件拷贝到你的工程即可: `DoubanOAuthConsumer.java`_, `DoubanOAuthConsumer.java`_
+
+.. _DoubanOAuthConsumer.java: http://github.com/lidaobing/jxphone-douban/blob/master/jxphone-douban/src/main/java/com/jxphone/douban/DoubanOAuthConsumer.java
+.. _DoubanOAuthProvider.java: http://github.com/lidaobing/jxphone-douban/blob/master/jxphone-douban/src/main/java/com/jxphone/douban/DoubanOAuthProvider.java
 
 范例
 ====
 
-单元测试参见
-jxphone-douban/src/test/java/com/jxphone/douban/DoubanOAuthProviderTest.java
+参考单元测试 `DoubanOAuthProviderTest.java`_ 以及 JSP 文件 `index.jsp`_
 
-JSP参见
-jxphone-douban-webapp/src/main/webapp/index.jsp
+.. _DoubanOAuthProviderTest.java: http://github.com/lidaobing/jxphone-douban/blob/master/jxphone-douban/src/test/java/com/jxphone/douban/DoubanOAuthProviderTest.java
+.. _index.jsp: http://github.com/lidaobing/jxphone-douban/blob/master/jxphone-douban-webapp/src/main/webapp/index.jsp
 
 授权协议
 ========
 
-  Copyright 2010 LI Daobing
+::
+
+   Copyright 2010 LI Daobing
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
