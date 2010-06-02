@@ -7,7 +7,7 @@ jxphone-douban
 关键代码
 ========
 
-将如下两个文件拷贝到你的工程即可: `DoubanOAuthConsumer.java`_, `DoubanOAuthConsumer.java`_
+将如下两个文件拷贝到你的工程即可: `DoubanOAuthConsumer.java`_, `DoubanOAuthProvider.java`_
 
 .. _DoubanOAuthConsumer.java: http://github.com/lidaobing/jxphone-douban/blob/master/jxphone-douban/src/main/java/com/jxphone/douban/DoubanOAuthConsumer.java
 .. _DoubanOAuthProvider.java: http://github.com/lidaobing/jxphone-douban/blob/master/jxphone-douban/src/main/java/com/jxphone/douban/DoubanOAuthProvider.java
