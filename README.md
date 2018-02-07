@@ -1,6 +1,6 @@
 # jxphone-douban
 
-[![Build Status](https://secure.travis-ci.org/lidaobing/douban-java-signpost.png?branch=master)](http://travis-ci.org/lidaobing/douban-java-signpost)
+[![Build Status](https://secure.travis-ci.org/lidaobing/douban-java-signpost.svg?branch=master)](http://travis-ci.org/lidaobing/douban-java-signpost)
 
 让 signpost 支持 douban 的 OAuth 协议
 
